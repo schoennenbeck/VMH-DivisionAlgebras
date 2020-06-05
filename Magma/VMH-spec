@@ -1,0 +1,29 @@
+{
+	Types.m
+
+	BasicData.m
+	Initialize.m
+
+	DivAlg
+	{
+		Functions
+		{
+			Lattice.m
+			Groups.m
+			Miscellaneous.m
+		}
+		Voronoi
+		{
+			Voronoi.m
+		}
+		WordProblem
+		{
+			WordProblem.m
+			Presentation.m
+		}
+		SUnits
+		{
+		SUnits.m
+		}
+	}
+}
